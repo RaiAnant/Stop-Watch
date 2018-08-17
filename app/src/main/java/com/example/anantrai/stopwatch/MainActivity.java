@@ -40,7 +40,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-
     public void start(View view){
         on=wasRunning=true;
     }
